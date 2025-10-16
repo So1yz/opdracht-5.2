@@ -133,12 +133,13 @@ footer {
 }
 
 .dropdown:hover > a {
-  color: #ffd700;
+  color: #E9E9E9;
   padding: 0.5rem 1rem;
 }
 
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
 
 
